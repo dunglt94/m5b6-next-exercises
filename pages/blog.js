@@ -1,12 +1,11 @@
 import Layout from "@/pages/layout";
 
-const Home = () => {
+const Blog = () => {
     return (
         <Layout>
-            <h1>Home Page</h1>
+            <h1>Blog Page</h1>
         </Layout>
-
     )
 }
 
-export default Home
+export default Blog
